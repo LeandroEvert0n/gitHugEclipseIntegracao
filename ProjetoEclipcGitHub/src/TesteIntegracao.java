@@ -6,6 +6,7 @@ public class TesteIntegracao {
 
 		System.out.println("Primeira integração!!");
 		System.out.println("Segunda integração!!");
+		System.out.println("Terceira integração vindo do GitHub!!");
 	}
 
 }
